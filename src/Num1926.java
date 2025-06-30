@@ -1,5 +1,3 @@
-package Coding1;
-
 import java.util.*;
 
 // 1. 도화지 크기 입력 받기.
